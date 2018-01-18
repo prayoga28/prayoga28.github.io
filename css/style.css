@@ -1,0 +1,125 @@
+.container{
+	padding: 0 12%;
+}
+body{
+	background: url('../img/bg.jpg');
+	padding-top: 0;
+	margin-top: 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+table{
+	border-collapse: collapse;
+}
+.menu{
+	background-color: yellow;
+
+}
+.content{
+	background-color: white;
+
+}
+.content td{
+	padding-left: 16px;
+}
+.menu td{
+	padding-left:16px;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	padding-right: 8px;
+}
+
+/* layer.html */
+.wadah{
+	width: 50%;
+	margin: 50px auto;
+	background-color: cyan;
+	padding: 15px;
+}
+
+.satu{
+	width: 50%;
+	padding: 15px;
+	color: white;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Verdana;
+	background-color: black;
+	opacity: .8;
+	padding-bottom: 25px;
+	position: relative;
+	z-index: 9999;
+}
+
+.dua{
+	width: 50%;
+	padding: 15px;
+	color: white;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Verdana;
+	background-color: gold;
+	opacity: .8;
+	padding-bottom: 25px;
+	margin-left: 5%;
+	margin-top: -15px;
+	position: relative;
+	z-index: 999;
+}
+
+
+.tiga{
+	width: 50%;
+	padding: 15px;
+	color: white;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Verdana;
+	background-color: teal;
+	opacity: .8;
+	padding-bottom: 25px;
+	margin-left: 10%;
+	margin-top: -15px;
+	position: relative;
+	z-index: 99;
+}
+
+.empat{
+	width: 50%;
+	padding: 15px;
+	color: white;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Verdana;
+	background-color: salmon;
+	opacity: .8;
+	padding-bottom: 25px;
+	margin-left: 15%;
+	margin-top: -15px;
+	position: relative;
+	z-index: 9;
+}
+
+.wadah div{
+	padding-top: 20px;
+
+}
+
+.baskom{
+	width: 50%;
+	background-color: rgb(0.0.0.0.4);
+	border: 1px solid ;
+	margin :5% auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.baskom table,tr,td{
+	
+	padding: 5px;
+}
